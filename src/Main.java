@@ -211,3 +211,5 @@ public class Main {
         textArea.append("Toți producătorii și consumatorii au terminat. Programul se încheie.\n");
     }
 }
+
+//etc
